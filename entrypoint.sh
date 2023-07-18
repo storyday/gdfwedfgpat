@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # 设置各变量
-WSPATH=${WSPATH:-'7cda060f-1b50-4319-bd40-abef18d9597a'}
-UUID=${UUID:-'7cda060f-1b50-4319-bd40-abef18d9597a'}
+WSPATH=${WSPATH:-'0c000769-ba5f-49ac-883c-1b2ab13afb30'}
+UUID=${UUID:-'0c000769-ba5f-49ac-883c-1b2ab13afb30'}
 
 # 其他Paas保活
 PAAS1_URL=
